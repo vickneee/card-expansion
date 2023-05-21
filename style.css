@@ -42,7 +42,6 @@ body {
 }
 
 .panel.active {
-    transition-duration: 0.7s;
     flex: 5;
 }
 
