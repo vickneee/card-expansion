@@ -1,3 +1,3 @@
 # card-expansion
 
-Card expansion.
+Card expansion using HTML, CSS & JavaScript.
