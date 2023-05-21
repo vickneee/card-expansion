@@ -12,6 +12,11 @@ body {
     margin: 0;
 }
 
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
 .container {
     display: flex;
     width: 90vw;
